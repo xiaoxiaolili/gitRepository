@@ -1,1 +1,2 @@
-this is my first git
+this is first git
+git is free software
